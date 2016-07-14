@@ -1,0 +1,78 @@
+.web {
+  font-family: 'Bungee Shade';
+  text-align: center;
+  font-size: 76px;
+}
+
+.nice {
+  text-align: center;
+  font-size: 48px;
+  font-family: 'Prompt', sans-serif;
+}
+
+div {text-align: center}
+
+.button1 {
+  font-size: 30px;
+  font-family: 'Prompt', sans-serif;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 30px 128px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; 
+}
+
+.button2{font-size: 30px;
+  font-family: 'Prompt', sans-serif;
+  background-color: #FF1493; /* Deep pink */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 30px 128px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; }
+
+.button3{font-size: 30px;
+  font-family: 'Prompt', sans-serif;
+  background-color: #FFD700; /* gold */
+  border: none;
+  border-radius: 12px; /* rounded edges*/
+  color: white;
+  padding: 30px 128px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; 
+}
+
+.button4{font-size: 30px;
+  font-family: 'Prompt', sans-serif;
+  background-color: #40E0D0	; /* turquoise*/
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 30px 156px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; 
+}
+
+.button5{
+  font-size: 30px;
+  font-family: 'Prompt', sans-serif;
+  background-color: #DA70D6	; /* orchid*/
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 45px 200px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; 
+}
+
+.image {
+  text-align: center;
+}
